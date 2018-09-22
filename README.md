@@ -1,2 +1,2 @@
 # mafAI
-A little spare-time project
+A game of Mafia and an experimental AI project.
